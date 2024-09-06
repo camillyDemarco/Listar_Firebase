@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "796255139272",
+    "project_id": "aulapam2",
+    "storage_bucket": "aulapam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796255139272:android:8963e3193b569e5db97cfd",
+        "android_client_info": {
+          "package_name": "br.com.eteczonaleste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiig5qVaALw3kHyUjov8D0e48fDN3XI0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796255139272:android:0c5afc3474ed3738b97cfd",
+        "android_client_info": {
+          "package_name": "com.example.bdfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiig5qVaALw3kHyUjov8D0e48fDN3XI0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796255139272:android:de3dbc3e9e185662b97cfd",
+        "android_client_info": {
+          "package_name": "com.example.comfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiig5qVaALw3kHyUjov8D0e48fDN3XI0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
